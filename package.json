@@ -1,0 +1,13 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a Blockchaing with it",
+  "main": "index.js",
+  "repository": "https://github.com/2yuna/typechain.git",
+  "author": "Yuna Lee <y.duck10002@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
